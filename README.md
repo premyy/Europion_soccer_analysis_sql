@@ -1,6 +1,8 @@
 # Europion_soccer_analysis_sql
 # 📝 Description
-I have analyzed Europion Soccer Dataset in this repository
+I have analyzed Europion Soccer Dataset in this repository.
+
+This is the SQL project 
 
 # ⏳ Dataset
 Download the dataset
